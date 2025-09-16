@@ -1,5 +1,5 @@
 package Day2;
-public class elementFrequency {
+public class ElementFrequency {
     public static void main(String[] args) {
         int arr[] = {2, 4, 2, 6, 2, 9, 6};
         boolean visited[] = new boolean[arr.length];
