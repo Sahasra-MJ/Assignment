@@ -1,6 +1,6 @@
 package Day2;
 
-public class count {
+public class Count {
     public static void main(String[]args){
         int arr[] = {5, -3, 0, 12, -9, 0, 7};
         int positive=0,negative=0,zero=0;
